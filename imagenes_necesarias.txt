@@ -1,0 +1,143 @@
+==========================================
+IMÁGENES NECESARIAS PARA EL JUEGO
+Mundo Hello Kitty - Aventura RPG
+==========================================
+
+Por favor, proporciona la URL de cada imagen relacionada con Hello Kitty.
+Las imágenes deben ser de Hello Kitty, My Melody, o el mundo kawaii.
+
+==========================================
+IMÁGENES PRINCIPALES (8 imágenes):
+==========================================
+
+1. start.jpg
+   Escena: "Bienvenida al Mundo de Hello Kitty"
+   Descripción: Imagen de Hello Kitty dando la bienvenida, mundo mágico kawaii, colores rosados
+   URL: https://i.pinimg.com/736x/df/88/4a/df884aa7007d2e160dc4a0b6b22317be.jpg_______________________________
+
+2. forest.jpg
+   Escena: "La Casa de Hello Kitty"
+   Descripción: Casa de Hello Kitty, habitación rosada, decoración kawaii con corazones
+   URL: _https://i.pinimg.com/736x/fd/a8/8d/fda88df2002fb07f9261a9a390be7100.jpg______________________________
+
+3. gift.jpg
+   Escena: "El Regalo de Hello Kitty"
+   Descripción: Regalo envuelto con lazo de Hello Kitty, rosado, moño perfecto
+   URL: ______https://i.pinimg.com/736x/14/91/95/1491950cc5a39ed553930cb747c758cf.jpg_________________________
+
+4. dog.jpg
+   Escena: "My Melody te Saluda"
+   Descripción: My Melody (amiga de Hello Kitty), con capucha roja, adorable
+   URL: ________https://i.pinimg.com/originals/ca/e7/59/cae759381dfa8e57bcee8d31dc389eaf.gif
+
+5. garden.jpg
+   Escena: "La Melodía de Hello Kitty" / "El Jardín de Hello Kitty"
+   Descripción: Jardín de Hello Kitty con flores rosadas, corazones, ambiente kawaii
+   URL: __https://i.pinimg.com/736x/0d/7c/f2/0d7cf2d94b45aa8046ed193dd28b0c27.jpg_____________________________
+
+6. clearing.jpg
+   Escena: "El Jardín de Hello Kitty" / "El Reflejo Mágico"
+Jardín con estanque en forma de corazón, flores rosadas, ambiente mágico   Descripción: 
+   URL: ___https://i.pinimg.com/736x/35/65/b6/3565b6c36f8bffa54681315e1012df5e.jpg____________________________
+
+7. final.jpg
+   Escena: "Misión Final con Hello Kitty"
+   Descripción: Escena romántica especial con Hello Kitty, momento importante, kawaii y romántico
+   URL: ____https://v1.pinimg.com/videos/mc/720p/23/a4/c8/23a4c8076a032557dac0ab0c3a4193cc.mp4___________________________
+
+8. yes.jpg
+   Escena: "¡Sí! ¡Felicidades!"
+   Descripción: Celebración con Hello Kitty, corazones, felicidad, colores rosados y kawaii
+   URL: ____https://i.pinimg.com/736x/a1/27/2b/a1272b69c9d1eabc47e8f4b489dbec23.jpg___________________________
+
+==========================================
+IMÁGENES ADICIONALES (opcionales, pueden reutilizarse):
+==========================================
+
+9. openGift.jpg
+   Escena: "Abriendo el Regalo de Hello Kitty"
+   Descripción: Regalo abierto de Hello Kitty, nota con corazón
+   URL: _______________________________
+   (Puede usar gift.jpg si no tienes una específica)
+
+10. keepGift.jpg
+    Escena: "Guardando el Regalo"
+    Descripción: Hello Kitty sonriendo, regalo guardado
+    URL: _______________________________
+    (Puede usar start.jpg o forest.jpg si no tienes una específica)
+
+11. petDog.jpg
+    Escena: "Amigas con My Melody"
+    Descripción: My Melody y Hello Kitty juntas, abrazo, amistad kawaii
+    URL: _______________________________
+    (Puede usar dog.jpg si no tienes una específica)
+
+12. listenDog.jpg
+    Escena: "El Mensaje de My Melody"
+    Descripción: My Melody hablando, mensaje importante
+    URL: _______________________________
+    (Puede usar dog.jpg si no tienes una específica)
+
+13. musicSource.jpg
+    Escena: "Encontrando a Hello Kitty"
+    Descripción: Hello Kitty cantando o tocando música, lugar especial
+    URL: _______________________________
+    (Puede usar garden.jpg si no tienes una específica)
+
+14. listen.jpg
+    Escena: "Escuchando a Hello Kitty"
+    Descripción: Ambiente tranquilo, música de Hello Kitty, paz y amor
+    URL: _______________________________
+    (Puede usar garden.jpg si no tienes una específica)
+
+15. reflection.jpg
+    Escena: "El Reflejo Mágico"
+    Descripción: Agua con forma de corazón, reflejo mágico, Hello Kitty
+    URL: _______________________________
+    (Puede usar clearing.jpg si no tienes una específica)
+
+16. note.jpg
+    Escena: "La Nota de Hello Kitty"
+    Descripción: Nota de Hello Kitty con corazón, mensaje especial
+    URL: _______________________________
+    (Puede usar gift.jpg si no tienes una específica)
+
+17. followDog.jpg
+    Escena: "Siguiendo a My Melody"
+    Descripción: Sendero rosado, My Melody guiando, camino especial
+    URL: _______________________________
+    (Puede usar garden.jpg si no tienes una específica)
+
+18. askDog.jpg
+    Escena: "Más Preguntas a My Melody"
+    Descripción: My Melody con corazones, camino iluminado
+    URL: _______________________________
+    (Puede usar dog.jpg si no tienes una específica)
+
+19. water.jpg
+    Escena: "El Toque Mágico"
+    Descripción: Agua con forma de corazón, toque mágico, Hello Kitty
+    URL: _______________________________
+    (Puede usar clearing.jpg si no tienes una específica)
+
+==========================================
+NOTAS IMPORTANTES:
+==========================================
+
+- Las imágenes deben ser relacionadas con Hello Kitty y su mundo kawaii
+- Preferiblemente en colores rosados, pasteles
+- Formato: JPG o PNG
+- Tamaño recomendado: al menos 800x600px para buena calidad
+- Si no tienes una imagen específica, puedes reutilizar una de las 8 principales
+
+==========================================
+INSTRUCCIONES:
+==========================================
+
+1. Copia la URL de cada imagen junto al número correspondiente
+2. Si no tienes una imagen específica, déjala en blanco y usaré una de las principales
+3. Las 8 primeras imágenes son las más importantes
+4. Envíame el archivo completo con las URLs cuando esté listo
+
+==========================================
+
